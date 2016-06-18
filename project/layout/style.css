@@ -1,0 +1,42 @@
+@font-face {
+   font-family: myFirstFont;
+   src: url(Lobster_1.3.otf);
+}
+
+.nm{
+
+   text-align: left;
+    font-family:myFirstFont;
+    letter-spacing: 10px;
+    color:#3296c8;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px cornsilk;
+    font-size:2.5em;
+}
+a{color:darkslategrey;}
+a:hover{
+    color:dimgray;
+    text-decoration: none;
+    
+}
+.account{text-align: right; }
+.haccont{font-size:1.3em;}
+.saccount{text-align: left; }
+.xyz{height:10.5%;}
+#head{
+    font-size: 30px;
+    font-family:myFirstFont;   
+    letter-spacing: 10px;
+    color: white;
+margin-left:10px;    
+padding-top: 3px;
+}
+.vb{margin-top: -42px;margin-left: 100px;}
+.cc{height:5%;
+margin-top: -45px;}
+.ll{margin-top: 70px;}
+.ahref:hover{
+    color: aqua;
+}
+a:active{color:green;
+}

@@ -1,0 +1,35 @@
+
+
+h2.arc{
+text-align:center;
+font-family:Segoe Script;
+}
+.we{
+text-decoration:line-through;
+}
+
+#qwe{
+background-color:white;
+}
+
+button a:hover{
+color:red;
+}
+
+.ty{
+font-color:black;
+}
+.gh{
+color:black;
+height:2px;
+}
+
+.hj{
+height:2px;
+color:yellow;
+}
+
+.b{
+border:2px none black;
+border-radius:5px 15px 5px 15px;
+}
